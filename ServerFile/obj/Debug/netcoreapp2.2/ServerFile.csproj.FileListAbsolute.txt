@@ -1,0 +1,11 @@
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/bin/Debug/netcoreapp2.2/ServerFile.deps.json
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/bin/Debug/netcoreapp2.2/ServerFile.runtimeconfig.json
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/bin/Debug/netcoreapp2.2/ServerFile.runtimeconfig.dev.json
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/bin/Debug/netcoreapp2.2/ServerFile.dll
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/bin/Debug/netcoreapp2.2/ServerFile.pdb
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/obj/Debug/netcoreapp2.2/ServerFile.csprojAssemblyReference.cache
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/obj/Debug/netcoreapp2.2/ServerFile.csproj.CoreCompileInputs.cache
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/obj/Debug/netcoreapp2.2/ServerFile.AssemblyInfoInputs.cache
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/obj/Debug/netcoreapp2.2/ServerFile.AssemblyInfo.cs
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/obj/Debug/netcoreapp2.2/ServerFile.dll
+/Users/kyun/Desktop/Kyun/C#/GameServer/ServerFile/obj/Debug/netcoreapp2.2/ServerFile.pdb
